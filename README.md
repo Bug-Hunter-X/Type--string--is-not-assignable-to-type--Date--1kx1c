@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript where a string is incorrectly assigned to a Date object.  The function `greet` expects a Date object for the `date` parameter, but the original code might attempt to pass a string. The solution shows how to correctly use a Date object.
